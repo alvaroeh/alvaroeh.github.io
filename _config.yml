@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Research & Consultancy projects' page
+title: Research & Consultancy projects
 email: alvaro.espinozah@gmail.com
-description: Personal page of economist Álvaro R. L. Espinoza H. # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
 twitter_username: aespinozah
 github_username: alvaroeh
 minimal_mistakes_skin: dirt
