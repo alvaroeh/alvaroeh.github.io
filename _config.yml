@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Álvaro Espinoza Hernández"
   avatar : "/assets/images/IMG_0144.jpg"
-  bio    : "Economics (M.Sc.), Consultant. Research papers & Consultancy projects' personal page"
+  bio    : "Economics (M.Sc.), Consultant. Development, Agricultural and Applied Economics. Research papers & Consultancy projects' personal page"
   links:
   #  - label: ""
   #    icon: "fas fa-fw fa-link"
@@ -78,10 +78,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/aespinozah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/alvaroeh"
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
