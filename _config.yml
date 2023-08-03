@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Research & Consultancy project's page
+title: Research & Consultancy
 email: alvaro.espinozah@gmail.com
 description: Research papers & Consultancy projects' page of economist Álvaro R. L. Espinoza H.
 twitter_username: aespinozah
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Álvaro Espinoza Hernández"
   avatar : "/assets/images/IMG_0144.jpg"
-  bio    : "Economist, Consultant"
+  bio    : "Research papers & Consultancy projects' page of economist Álvaro R. L. Espinoza H."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
