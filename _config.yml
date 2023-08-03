@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Álvaro R. L. Espinoza H.
+title: Research & Consultancy projects' page
 email: alvaro.espinozah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Research papers & Consultancy projects' page of economist Álvaro R. L. Espinoza H.
+Personal page of economist Álvaro R. L. Espinoza H.
 twitter_username: aespinozah
 github_username: alvaroeh
 minimal_mistakes_skin: dirt
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Álvaro R. L. Espinoza H."
   avatar : "/assets/images/IMG_0144.jpg"
-  bio    : "Research papers & Consultancy projects' page of economist Álvaro R. L. Espinoza H."
+  bio    : "Economist, Consultant"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
