@@ -1,6 +1,10 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Research"
+    url: /research/
+  - title: "Consultancy reports"  
+    url: /consultancy/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
