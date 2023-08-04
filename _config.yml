@@ -114,3 +114,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+research_archive:
+  type: liquid
+  path: /research/
+consultancy_archive:
+  type: liquid
+  path: /consultancy
