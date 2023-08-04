@@ -11,7 +11,7 @@ The role of market concentration and potential market power exertion in the agri
 
 *Full citation:* Hernandez, Manuel A.; Espinoza, Alvaro; Berrospi, Maria Lucia; Deconinck, Koen; Swinnen, Johan; and Vos, Rob. 2023. The role of market concentration in the agrifood industry. IFPRI Discussion Paper 2168. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/p15738coll2.136567
 
-[Download PDF](https://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/136567/filename/136780.pdf)
+[Download PDF](https://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/136567/filename/136780.pdf){: .btn .btn--primary}
 
 
 
