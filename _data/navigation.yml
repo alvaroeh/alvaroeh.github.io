@@ -1,8 +1,6 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Research"
-    url: /research/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
