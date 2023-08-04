@@ -1,5 +1,5 @@
 ---
-title: "The role of market concentration in the agrifood industry"  with M. Hernández, M. Berrospi, K. Deconinck, J. Swinnen & R. Vos. IFPRI Discussion Paper 2168.
+title: "The role of market concentration in the agrifood industry.  With M. Hernández, M. Berrospi, K. Deconinck, J. Swinnen & R. Vos. IFPRI Discussion Paper 2168."
 categories:
   - Blog
 tags:
