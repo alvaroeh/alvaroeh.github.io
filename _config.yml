@@ -59,9 +59,7 @@ plugins:
 author:
   name   : "Álvaro Espinoza Hernández"
   avatar : "/assets/images/IMG_0144.jpg"
-  bio    : "Economics (M.Sc.), Consultant. Development, Agricultural and Applied Economics."
-  bio    : "Research & Consultancy projects' personal page"
-  mail   : "alvaro.espinozah@gmail.com"
+  bio    : "Economics (M.Sc.), Consultant. Development, Agricultural and Applied Economics.\nResearch & Consultancy projects' personal page"
   location: "Santiago, CL"
   links:
   #  - label: ""
