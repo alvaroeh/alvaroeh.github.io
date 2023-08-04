@@ -1,5 +1,5 @@
 ---
-title: "Consultancy reports"
+title: "Consultancy reports posts"
 layout: consultancy
 permalink: /consultancy/
 author_profile: true
