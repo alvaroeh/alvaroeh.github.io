@@ -7,7 +7,7 @@ tags:
   - agrifood value chains
   
 ---
-> This paper presents a complete characterization of market structure in the dry pasta value chain in Chile, the agents that participate in commercialization of *durum* wheat, its level of openness to international trade and its degree of linkage with the price index based in international prices used by large processors to buy to local producers of the grain. Likewise, this analysis extends to the next link in the chain, corresponding to the dry pasta manufacturing industry, since *durum* wheat is the main raw input for these foods.
+> This paper presents a complete characterization of market structure in the dry pasta value chain in Chile. Upstream, the agents that participate in commercialization of *durum* wheat, its level of openness to international trade and its degree of linkage with the price index based in international prices used by large processors to buy to local producers of the grain. Likewise, this analysis extends downstream, to the dry pasta manufacturing industry, since *durum* wheat is the main raw input for these foods.
 
 > A review of the main exporting countries is carried out, both for *durum* wheat and pasta and spaghetti, in order to assess influence of international markets that could be relevant in determining the prices from foreign trade operations.
 
