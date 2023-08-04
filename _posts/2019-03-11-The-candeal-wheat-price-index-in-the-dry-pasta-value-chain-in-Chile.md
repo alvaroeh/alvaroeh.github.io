@@ -17,7 +17,7 @@ tags:
 
 > Finally, a discussion is presented on alternative sources of market information to support the national commercialization of *durum* wheat for local producers.
 
-*Full citation:* Farías P., Claudio; Fernández B., Gastón; Espinoza H., Álvaro. Market Analysis Department Santiago, Chile: Bureau of Agricultural Studies and Policy (ODEPA).
+*Full citation:* Farías P., Claudio; Fernández B., Gastón; Espinoza H., Álvaro. Santiago, Chile: Bureau of Agricultural Studies and Policy (ODEPA), Market Analysis Department.
 
 [Download PDF (in Spanish)](https://www.odepa.gob.cl/wp-content/uploads/2019/03/Indicador2018rev6.pdf){: .btn .btn--primary}
 
