@@ -119,4 +119,4 @@ research_archive:
   path: /research/
 consultancy_archive:
   type: liquid
-  path: /consultancy
+  path: /consultancy/
