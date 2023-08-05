@@ -1,5 +1,5 @@
 ---
-title: "Methodology-for-school-accountabilty-and-assessment-in-inequality-contexts-in-Chile"
+title: "Methodology for school accountabilty and education quality assessment in inequality contexts in Chile"
 categories:
   - Consultancy report
 tags:
