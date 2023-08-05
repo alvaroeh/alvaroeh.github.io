@@ -9,4 +9,4 @@ tags:
   - public policy
   
 ---
-[Download report (in Spanish)](/assets/Informe_Demanda_y_Anexos_25012021.pdf)
+[Download report (in Spanish)](https://github.com/alvaroeh/alvaroeh.github.io/blob/master/assets/Informe_Demanda_y_Anexos_25012021.pdf)
