@@ -11,4 +11,4 @@ tags:
 
 [Download Official Ministry of Education Decree with methodology (in force)](https://bcn.cl/3egtr){: .btn .btn--primary}
 
-[Download final report (in Spanish)](https://alvaroeh.github.io/assets/2013_07_12_Informe_Fundamentos_Metodología_Ordenación_Establecimientos.pdf){: .btn .btn--primary}
+[Download final report (in Spanish)](https://alvaroeh.github.io/assets/20130712_Informe_Ordenacion.pdf){: .btn .btn--primary}
