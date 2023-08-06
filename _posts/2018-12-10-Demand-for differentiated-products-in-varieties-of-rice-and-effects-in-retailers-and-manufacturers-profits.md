@@ -13,7 +13,7 @@ tags:
 
 > Evidence of heterogeneity in preferences for product attributes influences substitution patterns. The counterfactual market equilibrium scenarios analyzed by the model provide economic justification for organizational characteristics of this industry in Chile, such as the interest of manufacturers to provide incentives and sign contracts with farmers that produce local varieties of rice, and the entry of retailers into the market for this product in recent years, with their own private label brands in the segment that has the most preferred characteristics. 
 
-> The research findings questions the use of the price of varieties of imported origin that national brands companies use to value the purchase of the *paddy rice* from local farmers, since it is not related to the market premium due to demand preferences for that variety.
+> Research findings question the use of the price of varieties of imported origin that national brands companies use to value the purchase of the *paddy rice* from local farmers, since it is not related to the market premium due to demand preferences for that variety.
 
 *Citation:* Espinoza Hernández, Á. (2018). Valoración de productos de arroz de variedad desarrollada en Chile y su efecto en las ganancias del retail y empresas productoras. Santiago, Chile: Universidad de Chile - Facultad de Ciencias Físicas y Matemáticas. 
 
