@@ -1,7 +1,7 @@
 ---
 title: "Methodology for school accountabilty and education quality assessment in inequality contexts in Chile"
 categories:
-  - Consultancy report
+  - Consultancy Report
 tags:
   - education 
   - public policy
