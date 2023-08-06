@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Research & Consultancy
+subtitle: *personal page*
 email: alvaro.espinozah@gmail.com
 description: Research papers & Consultancy projects personal website of economist Álvaro R. L. Espinoza H. (M.Sc.)
 twitter_username: aespinozah
