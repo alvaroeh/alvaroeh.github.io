@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Public School Infrastructure Renovation and Maintenance Programs for the Ministry of Finance Budget Office"
+title: "Evaluation of public school infrastructure renovation and maintenance programs for the Ministry of Finance Budget Office"
 categories:
   - Consultancy Report
 tags:
