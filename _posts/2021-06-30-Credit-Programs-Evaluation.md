@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Agricultural Development Credit Programs for the Ministry of Finance Budget Office"
+title: "Evaluation of agricultural development credit programs for the Ministry of Finance Budget Office"
 categories: 
   - Consultancy Report
 
