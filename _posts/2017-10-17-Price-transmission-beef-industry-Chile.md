@@ -13,9 +13,9 @@ tags:
 
 > The implications of these results, observing the regional livestock context in which Chile is immersed, suggest the development of strategies focused on the search for differentiation, special brands and quality seals that attract consumer demand, which will generate greater value, at the same time that they will make it possible to face the competition in more appropriate strategic terms, based on a differentiation by quality or specific characteristics of the national product. Likewise, the background information analyzed allows us to account for the existence of a wholesale distribution market for ready-to-cook meat products that is currently not well represented in the statistics available for the industry, which makes it recommendable that efforts be devoted to gather frequently updated price information of the products that are traded in this market.
 
-*Full citation:* Farías P., Claudio; Espinoza H., Álvaro; and Giacomozzi, J. (2016). Santiago, Chile: Bureau of Agricultural Studies and Policy (ODEPA), Market Analysis Department.
+*Full citation:* Farías P., Claudio; Espinoza H., Álvaro; and Giacomozzi, Jaime. (2016). Santiago, Chile: Bureau of Agricultural Studies and Policy (ODEPA), Market Analysis Department.
 
-This Working Paper was presented in the conference *"Agricultural Productivity, Climate Change and Sustainable Resource Management"*, IAAE Inter-Conference Symposium & V Congreso Regional de Economía Agraria, Talca, Chile, Oct. 17-18, 2017.
+This Working Paper was presented in the Conference *"Agricultural Productivity, Climate Change and Sustainable Resource Management"*, IAAE Inter-Conference Symposium & V Congreso Regional de Economía Agraria, Talca, Chile, Oct. 17-18, 2017.
 
 [Download PDF (in Spanish)](https://www.odepa.gob.cl/wp-content/uploads/2017/12/cadenaCarneBovina.pdf){: .btn .btn--primary}
 
