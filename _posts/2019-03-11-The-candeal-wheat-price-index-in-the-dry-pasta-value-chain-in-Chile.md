@@ -7,7 +7,7 @@ tags:
   - agrifood value chains
   
 ---
-> This study is part of a series of working papers that analyzes relevant agrifood value chains in Chile using time series analysis and cointegration methods.
+> This study is part of a series of working papers that analyze relevant agrifood value chains in Chile using time series analysis and cointegration methods.
 
 > This paper presents a complete characterization of the dry pasta value chain in Chile. Upstream, the agents that participate in commercialization of *durum* wheat, their accessibility to international trade and the degree of linkage with the wheat price index as a referential indicator established in Chile since 2013 based in international wheat prices, and used by large processors to buy to local producers of the grain. Likewise, this analysis extends downstream, to the dry pasta manufacturing industry, since *durum* wheat is the main raw input for these foods.
 
