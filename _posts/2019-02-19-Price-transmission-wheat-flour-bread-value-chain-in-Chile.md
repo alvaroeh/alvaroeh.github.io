@@ -7,7 +7,7 @@ tags:
   - agrifood value chains
   
 ---
-> This study is part of a series of working papers that analyzes relevant agrifood value chains in Chile using time series analysis and cointegration methods.
+> This study is part of a series of working papers that analyze relevant agrifood value chains in Chile using time series analysis and cointegration methods.
 
 > The objective of the paper is to analyze the behavior of the price of wholesale wheat flour, in order to understand its relationship with the related market for its main input: baker's wheat; and the recent changes observed in the link between the prices of both products.
 
