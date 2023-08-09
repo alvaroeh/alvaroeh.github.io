@@ -7,9 +7,8 @@ tags:
   - agrifood value chains
   
 ---
-> This study is part of a series of working papers that analyzes relevant agrifood value chains in Chile using time series analysis and cointegration methods.
 
-> We present a background of the industry, in which the relevant participation of imports in the availability of meat for national consumption stands out. Commercial transactions, from the primary level to the retail distribution level, carried out in the markets made possible to have the necessary information for price transmission analysis using a vertical perspective, along the value chain, based on the expected relationship between inputs, products at the wholesale level and final ready-to-cook products.
+> This study analyzes the price transmission process in the beef chain in Chile, using time series analysis and cointegration methods. We present a background of the industry, in which the relevant participation of imports in the availability of meat for national consumption stands out. Commercial transactions, from the primary level to the retail distribution level, carried out in the markets made possible to have the necessary information for price transmission analysis using a vertical perspective, along the value chain, based on the expected relationship between inputs, products at the wholesale level and final ready-to-cook products.
 
 > The analysis presented in this document support the hypothesis that the beef chain in Chile would be integrated through their prices, and that this integration substantively includes the imported products, which corresponds mainly to ready-to-cook meat products (meat in pieces) from Mercosur countries. The results of the estimated models are indicative that in addition to the existence of price transmission, it is high and consistent with expectations. Thus, in an open market, with high volumes of imported products such as beef in Chile, the agents in the chain must continue to face the strong incidence of foreign competition that will certainly continue in the future.
 
