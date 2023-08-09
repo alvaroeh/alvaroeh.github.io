@@ -15,6 +15,6 @@ tags:
 
 > Research findings question the use of the price of varieties of imported origin that national brands companies use to value the purchase of the *paddy rice* from local farmers, since it is not related to the market premium due to demand preferences for that variety.
 
-*Citation:* Espinoza Hernández, Á. (2018). Valoración de productos de arroz de variedad desarrollada en Chile y su efecto en las ganancias del retail y empresas productoras. Santiago, Chile: Universidad de Chile - Facultad de Ciencias Físicas y Matemáticas. 
+*Citation:* Espinoza Hernández, Á. (2018). Valoración de productos de arroz de variedad desarrollada en Chile y su efecto en las ganancias del retail y empresas productoras. *Tesis de Grado de Magíster en Economía Aplicada*. Santiago, Chile: Universidad de Chile - Facultad de Ciencias Físicas y Matemáticas. 
 
 [University of Chile repository (PDF available in Spanish)](https://repositorio.uchile.cl/handle/2250/168680){: .btn .btn--primary}
