@@ -1,5 +1,5 @@
 ---
-title: "Food Markets, Bargaining Asymmetries and Trade Practices"
+title: "Food markets, bargaining asymmetries and trade practices"
 categories:
   - Book chapter
 tags:
