@@ -14,3 +14,5 @@ Technical Cooperation No. CH-T1215 (ATN/OC-17434-CH)
 Inter American Development Bank (IADB) and the Ministry of Justice and Human Rights Chile.
 
 [Download final report (in Spanish)](https://alvaroeh.github.io/assets/Informe_Demanda_y_Anexos_25012021.pdf){: .btn .btn--primary}
+
+[Brief summary from M. of Justice](https://www.minjusticia.gob.cl/media/2022/09/Estudio_via_glosa_presupuestaria_Cooperacion_Tecnica_BID_en_marco_de_la_preparacion_a_la_reforma_ReinsercionSocialJuvenil.pdf)
