@@ -17,4 +17,8 @@ tags:
 
 *Citation:* Espinoza Hernández, Álvaro. (2018). Valoración de productos de arroz de variedad desarrollada en Chile y su efecto en las ganancias del retail y empresas productoras. *Tesis de Grado de Magíster en Economía Aplicada*. Santiago, Chile: Universidad de Chile - Facultad de Ciencias Físicas y Matemáticas. 
 
-[University of Chile repository (PDF available in Spanish)](https://repositorio.uchile.cl/handle/2250/168680){: .btn .btn--primary}
+[English Version (PDF)](https://alvaroeh.github.io/assets/informefinal_eng.pdf){: .btn .btn--primary}
+
+[University of Chile Official Academic repository (PDF available in Spanish)](https://repositorio.uchile.cl/handle/2250/168680){: .btn .btn--primary}
+
+
