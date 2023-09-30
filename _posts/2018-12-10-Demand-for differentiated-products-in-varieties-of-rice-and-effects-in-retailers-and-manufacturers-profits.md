@@ -1,5 +1,5 @@
 ---
-title: "Demand for differentiated products in varieties of rice and effects in retailers and manufacturers profits"
+title: "Demand for differentiated varieties of rice and impacts on retailer and manufacturer profits"
 categories:
   - Master thesis
 tags:
