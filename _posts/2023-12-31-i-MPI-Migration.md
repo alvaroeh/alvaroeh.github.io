@@ -1,5 +1,5 @@
 ---
-title: "A tool to estimate the household-level likelihood of domestic migration"
+title: "Internal Migration Propensity Index (i-MPI) for Guatemala and Honduras: A tool to estimate the household-level likelihood of domestic migration"
 categories:
   - Working Paper
 tags:
