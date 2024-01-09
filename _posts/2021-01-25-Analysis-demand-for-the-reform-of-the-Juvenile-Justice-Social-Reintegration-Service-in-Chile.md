@@ -20,4 +20,4 @@ tags:
 
 [Download report part 3 (in Spanish)](https://alvaroeh.github.io/assets/InformeBrechas_final_11052021.pdf){: .btn .btn--primary}
 
-[Brief summary from M. of Justice](https://www.minjusticia.gob.cl/media/2022/09/Estudio_via_glosa_presupuestaria_Cooperacion_Tecnica_BID_en_marco_de_la_preparacion_a_la_reforma_ReinsercionSocialJuvenil.pdf)
+[Brief summary from M. of Justice](https://www.minjusticia.gob.cl/media/2022/09/Estudio_via_glosa_presupuestaria_Cooperacion_Tecnica_BID_en_marco_de_la_preparacion_a_la_reforma_ReinsercionSocialJuvenil.pdf){: .btn .btn--primary}
