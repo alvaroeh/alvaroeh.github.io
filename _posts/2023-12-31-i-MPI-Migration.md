@@ -10,6 +10,5 @@ tags:
 
 *Full citation:* Ceballos, F., Hernandez, M., and A. Espinoza Hernandez (2023). “A tool to estimate the household-level likelihood of domestic migration,” Working paper, December 31st, 2023.
 
-
 [Download current version](https://alvaroeh.github.io/assets/Internal-MPI for Guatemala and Honduras - Formatted.pdf){: .btn .btn--primary}
 
